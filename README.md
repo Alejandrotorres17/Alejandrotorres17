@@ -1,36 +1,61 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=180&section=header&text=VETRIVEL%20K&fontSize=40&fontColor=39ff14&animation=fadeIn&fontAlignY=40)
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=550&lines=Data+Science+Undergrad;Building+RAG+%2B+LLM+Systems;Python+%7C+SQL+%7C+ChromaDB" alt="Typing SVG" />
+# Vetrivel K
+
+Data Science Undergrad · Building RAG & LLM Systems
+
+<br>
 
 </div>
 
 ---
+
+<br>
 
 ### Current Build
+
 **[AST-Aware Codebase RAG System](https://github.com/Alejandrotorres17/ast-aware-codebase-rag-system)**
-Parses Python into ASTs via Tree-sitter → embeds into ChromaDB → answers questions via LLaMA 3.1 (Groq) → served through Streamlit.
+
+Parses Python into ASTs via Tree-sitter, embeds into ChromaDB, and answers natural language questions about a codebase using LLaMA 3.1 via Groq.
+
+<br>
 
 ### Stack
-`Python` `SQL` `Pandas` `NumPy` `Matplotlib` `Streamlit` `ChromaDB` `Tree-sitter` `Git`
-
----
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alejandrotorres17&show_icons=true&theme=github_dark&hide_title=true&border_radius=10&bg_color=0d1117&title_color=39ff14&icon_color=39ff14&text_color=c9d1d9&border_color=30363d)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandrotorres17&layout=compact&theme=github_dark&hide_title=true&border_radius=10&bg_color=0d1117&title_color=39ff14&text_color=c9d1d9&border_color=30363d)
+![Python](https://img.shields.io/badge/Python-f5f5f5?style=flat-square&logo=python&logoColor=3776AB)
+![SQL](https://img.shields.io/badge/SQL-f5f5f5?style=flat-square&logo=postgresql&logoColor=336791)
+![Streamlit](https://img.shields.io/badge/Streamlit-f5f5f5?style=flat-square&logo=streamlit&logoColor=FF4B4B)
+![Git](https://img.shields.io/badge/Git-f5f5f5?style=flat-square&logo=git&logoColor=F05032)
 
 </div>
+
+<br>
 
 ---
 
+<br>
+
 <div align="center">
 
-📫 **vetri17102007@gmail.com** &nbsp;•&nbsp; [LinkedIn](https://www.linkedin.com/in/vetri-vel-k-17102007)
+<img src="https://github-readme-stats.vercel.app/api?username=Alejandrotorres17&show_icons=true&hide_title=true&border_radius=16&bg_color=ffffff00&title_color=2d2d2d&icon_color=8a8a8a&text_color=4a4a4a&border_color=e0e0e0" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandrotorres17&layout=compact&hide_title=true&border_radius=16&bg_color=ffffff00&title_color=2d2d2d&text_color=4a4a4a&border_color=e0e0e0" width="48%" />
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d1117&height=100&section=footer)
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
+vetri17102007@gmail.com &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/vetri-vel-k-17102007)
+
+</div>
+
+<br>
